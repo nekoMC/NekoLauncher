@@ -2,7 +2,7 @@
 
 <h1 align="center">Neko Launcher</h1>
 
-<em><h5 align="center">沿用 <a href="https://github.com/dscalzi/HeliosLauncher">Helios</a> 布局和架构，本文件拷贝自 <a href="https://github.com/nekoMC/NekoLauncherSrc">NekoLauncherSrc</a></h5></em>
+<em><h5 align="center">沿用 <a href="https://github.com/dscalzi/HeliosLauncher">Helios</a> 布局和架构，启动器源代码来自 <a href="https://github.com/nekoMC/NekoLauncherSrc">NekoLauncherSrc</a></h5></em>
 
 <p align="center">无需关注 Java、mod和冲突，NekoLauncher 会帮你处理这些问题。</p>
 
@@ -18,7 +18,7 @@
 
 #### 需要帮助？
 
-* 可以在[猫服wiki](https://wiki.nekomc.fun)上获取现有信息，也可以在[Github](https://github.com/nekoMC/NekoLauncherSrc/issues)上搜索您的问题或者提出问题
+* 可以在[猫服wiki](https://wiki.nekomc.fun)上获取现有信息，也可以在[Github](https://github.com/nekoMC/NekoLauncher/issues)上搜索您的问题或者提出问题
 
 #### 如果喜欢别忘添加 ⭐
 
@@ -36,7 +36,7 @@
 
 **基本**
 
-* [Node.js][nodejs] v16
+* Node.js v15+
 
 ---
 
@@ -119,11 +119,11 @@
 
 #### Debug Main Process
 
-用于调试 [main process][mainprocess] 的选项。允许在 DevTools 窗口调试 [renderer process][rendererprocess]
+用于调试 `main process` 的选项。允许在 DevTools 窗口调试 `renderer process`
 
 #### Debug Renderer Process
 
-用于调试 [renderer process][rendererprocess] 的选项。需要在 Chrome 上安装 [Debugger for Chrome][chromedebugger] 扩展。
+用于调试 `renderer process` 的选项。需要在 Chrome 上安装 `Debugger for Chrome` 扩展。
 
 注意，**不能** 在调试时使用 debug 配置。Chromium 仅允许一个进程调试，另开一个吧。
 
@@ -131,7 +131,7 @@
 
 ### 致谢原作者
 
-本项目基于 [HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) 搭建，主要沿用原项目的界面设计和部分处理逻辑，再次向感谢原作者！
+本项目基于 [HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) 搭建，主要沿用原项目的界面设计和部分处理逻辑，向原作者表示感谢！
 
 ---
 
