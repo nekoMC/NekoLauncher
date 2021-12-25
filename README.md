@@ -2,7 +2,7 @@
 
 <h1 align="center">Neko Launcher</h1>
 
-<em><h5 align="center">沿用 <a href="https://github.com/dscalzi/HeliosLauncher">Helios</a> 布局和架构</h5>，本文件拷贝自 <a href="https://github.com/nekoMC/NekoLauncherSrc">NekoLauncherSrc</a></em>
+<em><h5 align="center">沿用 <a href="https://github.com/dscalzi/HeliosLauncher">Helios</a> 布局和架构，本文件拷贝自 <a href="https://github.com/nekoMC/NekoLauncherSrc">NekoLauncherSrc</a></h5></em>
 
 <p align="center">无需关注 Java、mod和冲突，NekoLauncher 会帮你处理这些问题。</p>
 
